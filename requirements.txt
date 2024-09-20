@@ -8,3 +8,4 @@ click==8.1.5
 batchgenerators==0.23
 report_guided_annotation
 SimpleITK
+nnunetv2

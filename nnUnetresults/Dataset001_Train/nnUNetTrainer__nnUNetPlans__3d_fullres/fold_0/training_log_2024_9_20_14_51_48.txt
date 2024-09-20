@@ -1,0 +1,10 @@
+
+#######################################################################
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+#######################################################################
+ 
+2024-09-20 14:51:48.032779: do_dummy_2d_data_aug: True 
+2024-09-20 14:51:48.046777: Creating new 5-fold cross-validation split... 
+2024-09-20 14:51:48.052822: Desired fold for training: 0 
+2024-09-20 14:51:48.065892: This split has 2 training and 1 validation cases. 
