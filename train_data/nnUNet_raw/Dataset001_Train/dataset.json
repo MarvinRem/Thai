@@ -11,7 +11,7 @@
         "pancreatic duct": 5,
         "common bile duct": 6
     },
-    "numTraining": 3,
+    "numTraining": 5,
     "file_ending": ".nii.gz",
     "overwrite_image_reader_writer": "SimpleITKIO"
 }
